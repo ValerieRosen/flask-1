@@ -1,0 +1,54 @@
+body {
+  background-color: darkseagreen;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.alert {
+  color: white;
+  background-color: tomato;
+  padding: 0.75em;
+  margin: 1em 0;
+  width: 150px;
+  margin: 5px auto;
+  display: block;
+}
+
+header {
+  color: rgb(8, 122, 4);
+  text-align: center;
+  border-bottom: solid rgb(205, 219, 205) 5px;
+  margin-bottom: 2em;
+  padding: 1em;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+button {
+  width: 80px;
+  height: 20px;
+  color: white;
+  background-color: tomato;
+  text-align: center;
+  margin-top: 20px;
+  margin: 5px auto;
+  display: block;
+}
+
+.form-group {
+  background-color: blanchedalmond;
+  padding: 20px;
+  text-align: right;
+  width: 150px;
+  margin: 0 auto;
+  display: block;
+}
+
+.results {
+  background-color: blanchedalmond;
+  padding: 20px;
+  text-align: center;
+  width: 200px;
+  margin: 0 auto;
+  display: block;
+}
